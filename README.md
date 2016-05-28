@@ -5,8 +5,8 @@ This alfred workflow shows next departures from beautiful Istanbul's bus service
 [Download](https://github.com/ttuygun/alfred-iett-workflow/blob/master/%C4%B0ETT%20Next%20Departures.alfredworkflow) workflow and start to use it!
 
 # Usage
-ie 15c
-ie 522
+* ie 15c
+* ie 522
 
 Note: This is the initial release of workflow. Lots of error handling, auto-updating and changing direction of bus feature is coming.
 
