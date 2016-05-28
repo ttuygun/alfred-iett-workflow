@@ -1,6 +1,8 @@
-<<<<<<< HEAD
 # İETT Next Departures
 This alfred workflow shows next departures from beautiful Istanbul's bus service İETT. It uses data from İETT's website. 
+
+# Install
+[Download](https://github.com/ttuygun/alfred-iett-workflow/blob/master/%C4%B0ETT%20Next%20Departures.alfredworkflow) workflow and start to use it!
 
 # Usage
 ie 15c
@@ -11,7 +13,4 @@ Note: This is the initial release of workflow. Lots of error handling, auto-upda
 Script created by Tarık Taha Uygun
 
 # Copyright and License
-This script created by Tarık Taha Uygun and released under MIT license. 
-=======
-# alfred-iett-workflow
->>>>>>> d243438bc90bbd70caa1f5205b097c5444941e26
+This script created by Tarık Taha Uygun and released under MIT license.
