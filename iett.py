@@ -9,7 +9,7 @@ def main(wf):
     else:
         query = None
 
-    url = 'http://www.iett.gov.tr/tr/main/ajaxHatSonuc/?q='+query+'&format=json'
+    url = 'http://www.iett.istanbul/tr/main/ajaxHatSonuc/?q='+query+'&format=json'
     r = web.get(url)
     r.raise_for_status()
     result = r.json()
